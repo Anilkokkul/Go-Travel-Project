@@ -50,7 +50,8 @@ body{
     object-fit: cover;
 }
 .caption{
-    font-size: larger;
+    font-size: medium;
+    align-self: center;
 }
 .container{
     width: 100%;
@@ -92,4 +93,7 @@ body{
 .container2 {
     padding: 0 2rem;
     width: 90%;
+}
+.carousel-caption{
+    bottom: 30%;
 }
